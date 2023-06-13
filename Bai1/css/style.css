@@ -1,0 +1,58 @@
+main{
+    margin-left: 40px;
+}
+/* Content begin*/
+.content{
+    display: flex;
+}
+/* Content end*/
+
+.contact{
+    width: 300px;
+}
+.list-contacts{
+    list-style: none;
+    padding: 0px 0px;
+}
+.contact-item{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    color: #777373;
+}
+.contact-photo{
+    width: 30px;
+    height: 30px;
+}
+.contact-content{
+    margin-left: 20px;
+}
+
+/* Form begin*/
+.form{
+    margin-left: 100px;
+}
+.display{
+    display: block;
+    width: 710px;
+    height: 38px;
+    margin-top: 15px;
+}
+.message{
+    display: block;
+    margin-top: 15px;
+    height: 105px;
+    width: 710px;
+}
+/* Form end*/
+
+/* Button submit begin*/
+.submit{
+    margin-top: 15px;
+    width: 130px;
+    height: 40px;
+    color: white;
+    border: none;
+    background-color: #0cb8b6;
+}
+/* Button submit end*/

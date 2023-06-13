@@ -1,0 +1,65 @@
+
+main{
+    display: flex;
+    justify-content: center;
+}
+.username{
+    margin: 5px 0px;
+}
+.username-input{
+    margin-left: 35px;
+}
+.password-input{
+    margin-left: 39px;
+}
+.city{
+    display: flex;
+    align-items: center;
+    margin: 5px 0px;
+
+}
+.city-input{
+    margin-left: 26px;
+}
+.server-input{
+    margin-left: 28px;
+}
+.role{
+    display: flex;
+    margin: 5px 0px;
+
+}
+.lable-role{
+    display: flex;
+    align-items: center;
+}
+.lists-role{
+    list-style: none;
+    padding: 0px 0px;
+    margin: 0px 0px 0px 20px;
+}
+.single{
+    display: flex;
+    margin: 5px 0px;
+
+}
+.lable-single{
+    display: flex;
+    align-items: center;
+}
+.list-single{
+    list-style: none;
+    padding: 0px 0px;
+    margin: 0px 0px 0px 5px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.btn-submit{
+    margin-right: 5px;
+}
+.btn-reset{
+    margin-left: 5px;
+}

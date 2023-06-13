@@ -1,0 +1,40 @@
+.nav{
+    width: 750px;
+    border: 1px solid;
+    margin-left: 30px;
+}
+main{
+    margin: 20px 30px;
+}
+.lists-countries{
+    padding: 0px 0px;
+    margin: 0px 0px;
+    display: flex;
+    list-style: none;
+    height: 30px;
+}
+.countries-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    color: #bb9c47;
+}
+.lists-countries :nth-child(1){
+    background-color: #bb9c47;
+    color: white;
+}
+.information{
+    display: block;
+    width: 350px;
+    margin-left: 20px;
+}
+.content{
+    display: flex;
+    background-color : #f6f6f6;
+    margin: auto;
+}
+.map{
+    height: 300px;
+    width: 100%;
+}
